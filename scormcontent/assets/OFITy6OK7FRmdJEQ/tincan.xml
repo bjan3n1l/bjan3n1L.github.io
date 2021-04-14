@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://6chWTPNn2eM_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Which Quadrant?</name>
+			<description lang="und" />
+			<launch lang="und">story.html</launch>
+		</activity>
+		<activity id="http://6chWTPNn2eM_course_id/6MkRuKujYkp" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">List your goals</name>
+			<description lang="und">List your goals</description>
+		</activity>
+		<activity id="http://6chWTPNn2eM_course_id/6F4VcXRj8ya" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Which Quadrant?</name>
+			<description lang="und">Which Quadrant?</description>
+		</activity>
+		<activity id="http://6chWTPNn2eM_course_id/6F4VcXRj8ya/6MtHrUJLpQ5" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Drag and Drop</name>
+			<description lang="und">Drag and Drop</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_6rocHkc2vRq[.]choice_5qsQTYCCbJa</correctResponsePattern>
+				<correctResponsePattern>statement_6rocHkc2vRq[.]choice_5lEUlrJuQ3e</correctResponsePattern>
+				<correctResponsePattern>statement_6rocHkc2vRq[.]choice_5zGM3U6r1oR</correctResponsePattern>
+				<correctResponsePattern>statement_6rocHkc2vRq[.]choice_5vd5rvF6xcC</correctResponsePattern>
+				<correctResponsePattern>statement_6rocHkc2vRq[.]choice_5sE62YJKrzI</correctResponsePattern>
+				<correctResponsePattern>statement_6rocHkc2vRq[.]choice_6EbfACabjrM</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_6rocHkc2vRq</id>
+					<description lang="und">Hotspot 1 - Rectangular Hotspot 1</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_5qsQTYCCbJa</id>
+					<description lang="und">Goal_A1_DD - %TextEntry0a%</description>
+				</component>
+				<component>
+					<id>choice_5lEUlrJuQ3e</id>
+					<description lang="und">Goal_B1_DD - %TextEntry1a%</description>
+				</component>
+				<component>
+					<id>choice_5zGM3U6r1oR</id>
+					<description lang="und">Goal_C1_DD - %TextEntry2a%</description>
+				</component>
+				<component>
+					<id>choice_5vd5rvF6xcC</id>
+					<description lang="und">Goal_D1_DD 1 - %TextEntry3a%</description>
+				</component>
+				<component>
+					<id>choice_5sE62YJKrzI</id>
+					<description lang="und">Goal_E1_DD 3 - %TextEntry4a%</description>
+				</component>
+				<component>
+					<id>choice_6EbfACabjrM</id>
+					<description lang="und">Goal_F1_DD  - %TextEntry5a%</description>
+				</component>
+			</target>
+		</activity>
+	</activities>
+</tincan>

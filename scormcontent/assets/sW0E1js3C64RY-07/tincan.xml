@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://6bec3stbDz6_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">ScenarioInterview</name>
+			<description lang="und" />
+			<launch lang="und">story.html</launch>
+		</activity>
+		<activity id="http://6bec3stbDz6_course_id/6DwYs2S5hNn" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Intro</name>
+			<description lang="und">Intro</description>
+		</activity>
+		<activity id="http://6bec3stbDz6_course_id/5YWFlA7Q0Fv" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6bec3stbDz6_course_id/5mXAjrVp7ui" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Welcome</name>
+			<description lang="und">Welcome</description>
+		</activity>
+		<activity id="http://6bec3stbDz6_course_id/5c7Bd546nVQ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Q1</name>
+			<description lang="und">Q1</description>
+		</activity>
+		<activity id="http://6bec3stbDz6_course_id/5Zio59VpEHh" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Q2</name>
+			<description lang="und">Q2</description>
+		</activity>
+		<activity id="http://6bec3stbDz6_course_id/6YhIsQ9AEYY" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Q2</name>
+			<description lang="und">Q2</description>
+		</activity>
+		<activity id="http://6bec3stbDz6_course_id/6EyWfLR7cTW" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Q3</name>
+			<description lang="und">Q3</description>
+		</activity>
+		<activity id="http://6bec3stbDz6_course_id/6hSBskljUHP" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Results</name>
+			<description lang="und">Results</description>
+		</activity>
+	</activities>
+</tincan>
